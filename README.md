@@ -1,1 +1,3 @@
 # Stock-Price-Forecasting-of-PT.-Gudang-Garam-Tbk
+
+Collecting daily stock price data of PT Gudang Garam Tbk, including opening and closing prices, for the period December 6, 2023 to February 2, 2024 from id.investing.com. Performed in-depth analysis of the data which included stationarity testing, Box-Cox transformation, differencing, and Kolmogorov-Smirnov test, as well as determining the best ARIMA model using R Studio and Excel. Next, perform stock price forecasting for the upcoming period with the selected ARIMA model using Python, and calculate the Mean Absolute Percentage Error (MAPE) to measure the accuracy of forecasting.
